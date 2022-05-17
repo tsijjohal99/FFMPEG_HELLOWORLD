@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/msys64/home/Jeevan/FFMPEG_HELLOWORLD/build",
+  "command": "/C/msys64/mingw64/bin/g++.exe  -I/include -g -std=gnu++20 -o CMakeFiles/ffmpegHelloWorld.dir/src/main.cpp.obj -c /C/msys64/home/Jeevan/FFMPEG_HELLOWORLD/src/main.cpp",
+  "file": "C:/msys64/home/Jeevan/FFMPEG_HELLOWORLD/src/main.cpp"
+}
+]
